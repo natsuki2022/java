@@ -1,2 +1,2 @@
-# java
+# javascript
 A Programming Language
